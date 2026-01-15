@@ -1,1 +1,35 @@
+body{
+    background-image: url("hello.jpg");
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-position: center;
+    background-size:cover;
+    padding: auto;
+    justify-content: center; 
+    align-items: center;     
+    min-height: 100vh;      
+}
 
+.card {
+  align-items: center;
+  background-color: white;
+  padding: 40px;
+  width: 400px;          
+  text-align: center;
+  display: flex;
+
+}
+h1{
+    text-align: center;
+}
+p{
+    text-align: center;
+    color: red;
+    font-family: cursive;
+}
+
+h2{
+    color: palevioletred;
+}
+h3{ 
+    color: pink;
+}
